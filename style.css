@@ -15,32 +15,32 @@ body, html {
 }
 
 .bgimg-1 {
-  background-image: url("img/bg1.jpeg");
+  background-image: url("https://static.pexels.com/photos/90807/pexels-photo-90807.jpeg");
   min-height: 430px;
 }
 
 .bgimg-2 {
-  background-image: url("img/bg2.jpeg");
+  background-image: url("https://static.pexels.com/photos/92903/pexels-photo-92903.jpeg");
   min-height: 370px;
 }
 
 .bgimg-3 {
-  background-image: url("img/bg3.jpeg");
+  background-image: url("https://static.pexels.com/photos/31079/pexels-photo-31079.jpg");
   min-height: 370px;
 }
 
 .bgimg-4 {
-  background-image: url("img/bg4.jpeg");
+  background-image: url("https://static.pexels.com/photos/300412/pexels-photo-300412.jpeg");
   min-height: 370px;
 }
 
 .bgimg-5 {
-  background-image: url("img/bg5.jpeg");
+  background-image: url("https://static.pexels.com/photos/7096/people-woman-coffee-meeting.jpg");
   min-height: 370px;
 }
 
 .bgimg-6 {
-  background-image: url("img/bg6.jpeg");
+  background-image: url("https://static.pexels.com/photos/2143/lights-party-dancing-music.jpg");
   min-height: 370px;
 }
 
