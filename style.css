@@ -24,12 +24,12 @@ body, html {
 }
 
 .bgimg-2 {
-  background-image: url(/img/bgimg-skill.jpg);
+  background-image: url(/img/bgimg-skill.jpeg);
   min-height: 370px;
 }
 
 .bgimg-3 {
-  background-image: url(/img/bgimg-edu.jpg);
+  background-image: url(/img/bgimg-edu.jpeg);
   min-height: 370px;
 }
 
